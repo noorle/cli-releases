@@ -1,3 +1,11 @@
+# Noorle CLI
+
+Build, test, and deploy WebAssembly plugins and manage MCP gateways for [Noorle](https://noorle.com/) — the managed runtime for AI agents.
+
+- 📦 [Installation guide](https://noorle.com/docs/reference/cli/installation)
+- 📖 [CLI command reference](https://noorle.com/docs/reference/cli/commands)
+- 🚀 [Five-minute quickstart](https://noorle.com/docs/use/five-minute-quickstart)
+
 # Noorle CLI Releases
 
 This repository hosts the official releases for Noorle CLI.
